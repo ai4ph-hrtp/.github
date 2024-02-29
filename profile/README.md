@@ -1,3 +1,5 @@
+# Artificial Intelligence for Public Health
+
 ## About Us
 
 AI4PH is focused on building capacity in AI and big data skills for transformative change in addressing population and public health challenges, and understanding how these tools impact health equity.
