@@ -7,3 +7,8 @@ AI4PH is focused on building capacity in AI and big data skills for transformati
 ## Mission
 
 To establish a workforce of public health researchers and practitioners who develop and apply innovations in equitable artificial intelligence (AI) and machine learning (ML) to public health research, policy, and practice in Canada.
+
+## General Information 
+
+You can find general information about resources available for learning coding and AI stuff here [https://github.com/ai4ph-hrtp/coding_resources](https://github.com/ai4ph-hrtp/coding_resources)
+
