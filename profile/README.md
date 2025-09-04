@@ -22,3 +22,4 @@ The main goal of this Github page is to be able to host and share content from o
 | 2023 | Toronto           | Causal Inference      | [Causal Inference Using Machine Learning Methods](https://kuan-liu.github.io/ai4ph2023/)     | [Kuan Liu](https://github.com/Kuan-Liu)
 | 2023 | Toronto           | Causal Inference      | [Applied example of Causal Inference Analysis](https://github.com/ai4ph-hrtp/causal_inference_2023/tree/main)     | [Brice Batomen](https://www.dlsph.utoronto.ca/faculty-profile/batomen-brice/)
 | 2024 | Calgary           | Image Analysis      |      | 
+| 2025 | Winnipeg           | Synthetic Data   |  [Synthetic Data Workshop](https://github.com/ai4ph-hrtp/AI4PH_Synthetic-Data-Workshop)    | [Hassan Maleki Golandouz](https://www.linkedin.com/in/hassan-maleki-golandouz-a9828576/?originalSubdomain=ca) and [Lisa Lix](https://umanitoba.ca/medicine/faculty-staff/lisa-lix)
