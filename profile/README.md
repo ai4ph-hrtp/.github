@@ -20,5 +20,5 @@ The main goal of this Github page is to be able to host and share content from o
 | ---- | ------------------ | ----- | ---- | ------ |
 | 2022 | Montreal           |  Text Analysis   |  [Text Analyses with R](https://bookdown.org/tianyuan09/ai4ph2022/) | [Yuan Tian](https://www.linkedin.com/in/yuan-tian-37256727/) |
 | 2023 | Toronto           | Causal Inference      | [Causal Inference Using Machine Learning Methods](https://kuan-liu.github.io/ai4ph2023/)     | [Kuan Liu](https://github.com/Kuan-Liu)
-| 2023 | Toronto           | Causal Inference      | []()     | [Brice]()
+| 2023 | Toronto           | Causal Inference      | [Applied example of Causal Inference Analysis](https://github.com/ai4ph-hrtp/causal_inference_2023/tree/main)     | [Brice Batomen](https://www.dlsph.utoronto.ca/faculty-profile/batomen-brice/)
 | 2024 | Calgary           | Image Analysis      |      | 
